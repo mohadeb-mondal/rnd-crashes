@@ -1,0 +1,4 @@
+Software : Some PDF to Txt converter 2.0
+Link : http://somepdf.com/pdf2txt_setup.exe
+Crash at 0000020
+Used a PDF file with 98 Bytes for the crash. (No EIP control though)
