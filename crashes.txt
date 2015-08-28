@@ -2,3 +2,8 @@ Software : Some PDF to Txt converter 2.0
 Link : http://somepdf.com/pdf2txt_setup.exe
 Crash at 0000020
 Used a PDF file with 98 Bytes for the crash. (No EIP control though)
+
+Software : Wondersoft JPG to PDF 1.01
+Link : http://www.go2pdf.com/JPG2PDFSetup.exe
+Crash : No EIP control
+Used a JPG file with 98 Bytes
