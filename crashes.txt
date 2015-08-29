@@ -7,3 +7,6 @@ Software : Wondersoft JPG to PDF 1.01
 Link : http://www.go2pdf.com/JPG2PDFSetup.exe
 Crash : No EIP control
 Used a JPG file with 98 Bytes
+
+Software : Free NEF to JPF Converter
+Crash on 10 bytes of a NEF file.
